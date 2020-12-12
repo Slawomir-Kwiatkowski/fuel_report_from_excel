@@ -1,0 +1,6 @@
+title:Zestawienie paliwa
+reg_number:Numer rejestracyjny
+fuel_total:Suma paliwa
+choice:Podaj nr rej. pojazdu (lub /q-wyjście, /m-ekran główny)
+refueling:Tankowania dla pojazdu
+ref_sum:Suma tankowań dla pojazdu

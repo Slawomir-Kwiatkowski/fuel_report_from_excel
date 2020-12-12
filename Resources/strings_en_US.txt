@@ -1,0 +1,6 @@
+title:Fuel report
+reg_number:Registration number
+fuel_total:Fuel total
+choice:Enter registration number (or /q-exit, /m-main screen)
+refueling:Refueling for the vehicle
+ref_sum:Refueling sum for vehicle
